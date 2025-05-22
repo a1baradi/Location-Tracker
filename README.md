@@ -11,6 +11,15 @@ This tool allows you to determine the approximate region and carrier of a phone 
 - Colored terminal output (Red and Green)
 - Built with Python
 
+## Installation 
+
+
+```bash
+git clone https://github.com/a1baradi/Location-Tracker.git
+cd Location-Tracker
+pip install -r requirements.txt
+
+
 ## Usage
 
 ```bash
