@@ -19,6 +19,7 @@ git clone https://github.com/a1baradi/Location-Tracker.git
 cd Location-Tracker
 pip install -r requirements.txt
 
+```
 
 ## Usage
 
