@@ -14,7 +14,7 @@ This tool allows you to determine the approximate region and carrier of a phone 
 ## Usage
 
 ```bash
-python phone_location_tracker.py
+python3 phone_location_tracker.py
 ```
 
 Enter phone number in international format (e.g., +12025550100, +8801712345678).
