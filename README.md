@@ -17,11 +17,10 @@ This tool allows you to determine the approximate region and carrier of a phone 
 python3 phone_location_tracker.py
 ```
 
-Enter phone number in international format (e.g., +12025550100, +8801712345678).
+Enter phone number in international format (e.g.+8801712345678).
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-Made by Al Baradi Joy
